@@ -5,7 +5,7 @@ const INITIAL_STATE = {
   userId: null
 };
 
-export const authReducer = (state = INITIAL_STATE, action) => {
+export default (state = INITIAL_STATE, action) => {
     switch(action.type) {
       case SIGN_IN:
         return { ...state, isSignedIn: true, userId: action.payload };
