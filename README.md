@@ -36,6 +36,7 @@ install node for windows or mac at [Node.js](https://nodejs.org/)
     - flv.js
     - lodash
     - flv.js
+    - Semantic UI
+    - GoogleAuth
  2. For api [json-server](https://www.npmjs.com/package/json-server)
  3. And [rtmp server](https://github.com/illuspas/Node-Media-Server)
- 
