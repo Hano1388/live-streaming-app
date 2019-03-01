@@ -16,12 +16,6 @@
       "id": 3
     },
     {
-      "title": "This Stream was created by me",
-      "description": "My stream",
-      "userId": null,
-      "id": 4
-    },
-    {
       "title": "UPDATED STREAM",
       "description": "My stream with a new description",
       "id": 5
@@ -31,6 +25,12 @@
       "description": "TESTING PATCH VS PUT FOR UPDATING STREAMSSSSSSS",
       "userId": "112969647046587447017",
       "id": 7
+    },
+    {
+      "title": "Another streammmmmmm",
+      "description": "Hindreen's stream",
+      "userId": "117288326975161577004",
+      "id": 8
     }
   ]
 }
